@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Alpha's Cage
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-You can use the [editor on GitHub](https://github.com/Boheme130/AlphasCage.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![avatar](https://media.newyorker.com/photos/595535a27d94e97fee0c6361/master/w_2560%2Cc_limit/170710_r30257.jpg)
+<br>
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作品：Alpha’s Cage <br>
+作者：Zoe Perdita <br>
+评分：4.5/5 <br>
 
-### Markdown
+Ari是掌管疾病的大祭司，他能用魔法治愈各种变形者，但却独独救不了自己男友的弟弟Kian。十年前，Ari和三毒头狼狼人Cage坠入爱河，Cage的弟弟Kian擅长艺术，Ari非常喜欢Kian。然而Cage内心燃起了熊熊的妒火，他怀疑喜欢艺术的弟弟在做小三。在一次吸D嗨了以后，他拉着Kian去开车，结果出了车祸。Cage把奄奄一息的Kian带回了Ari家，但Ari用尽各种魔法仍无回天之术。Ari无法原谅Cage，他取消了和Cage的婚约，两人分手。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+十年来，Kian的冤魂一直徘徊在Ari家里。Ari一直珍惜着Kian最后的一点残留，尽管Cage十年来不断想要讨回Ari的爱情，但Ari一直没有原谅他。
 
-```markdown
-Syntax highlighted code block
+Ari有一个卖古董的副业，有一天他在一个主人去世的城堡里买下了一些带有魔法的古玩，然而之后他的家里陆续闯入盗贼，甚至不断有人来暗杀他。Ari猜测他新买的古董有不寻常之处，但他却无法察觉到这批古董的异常。
 
-# Header 1
-## Header 2
-### Header 3
+Cage作为历史系教授，研究领域包括了魔法史，他无法忍受爱人遭受危险，决心一边保护Ari，一边调查这批古董的神秘之处。Ari一开始并不情愿和Cage在一起，但一天晚上，两人在不同的地点同时遭到了暗杀。Ari负伤仓皇逃出自己的家，无处可去的他来到了Cage的公寓，却发现Cage也在任教的大学遭到暗杀负伤。
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/AlphasCage.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+两人简单包扎后匆忙逃出城市来到郊区朋友的木屋，同时继续调查古董的起源。在与世隔绝的木屋里，两人关系重新升温，然而猎人再次找到了他们，两人相互配合杀死了几个猎人后逃离。然而，Ari的古董还藏在他的家里，他的家里已经被猎人包围，而真正的幕后凶手仍未被找到。Kian的冤魂仍被困在Ari家中，Ari还担心当他和Cage度过危险重新回到家中，Kian的冤魂能不能原谅他们……
